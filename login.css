@@ -14,6 +14,9 @@ body{
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     cursor: pointer;
 }
+#login #btn:hover{
+background-color: #181c47;
+}
 
 #detail{
     display: flex;
