@@ -27,5 +27,5 @@ function movetoprice(){
 }
 
 function movetohome(){
-window.location.href="navbar.html"
+window.location.href="index.html"
 }
